@@ -4,7 +4,7 @@
 	<groupId>com.mkyong.common</groupId>
 	<artifactId>sample-spring</artifactId>
 	<packaging>war</packaging>
-	<version>1.0-SNAPSHOT</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<name>Spring 2 MVC</name>
 
 	<properties>
